@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jurassic Museum - Community Board</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">🦖 Jurassic Museum</div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="exhibits.html">Dino Blog & Exhibits</a>
+            <a href="community.html" class="active">Community Board</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>Visitor Discussion Board</h2>
+            <p>Post your own thoughts, questions, or museum review for others to comment on!</p>
+            <form id="postForm">
+                <input type="text" id="authorName" placeholder="Your Name" required>
+                <textarea id="postContent" rows="3" placeholder="Write your museum discussion here..." required></textarea>
+                <button type="submit">Publish Discussion</button>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2>Recent Visitor Discussions</h2>
+            <div id="postsContainer"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Jurassic Museum | Designed by Jay-m Villanueva (2nd Year ACT)</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
