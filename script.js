@@ -4,7 +4,7 @@ if (blogContainer) {
         {
             id: 1,
             title: "Apex Predator: The Truth About Tyrannosaurus Rex",
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybY0XIfrT_zIYb703zWBMy59-Nxfj2X6YwKjLvLcmYA&s=10",
+            image: "images.jpg",
             content: "The T-Rex remains the undisputed king of prehistoric lizards. With a bite force exceeding 12,800 pounds, it could crush thick bone effortlessly. Recent paleontology studies also suggest they had keen binocular vision.",
             comments: [
                 { author: "Dr. Grant", text: "Fascinating creature! The skull structure is pristine." }
