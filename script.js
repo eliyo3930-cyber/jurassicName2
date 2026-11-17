@@ -4,7 +4,7 @@ if (blogContainer) {
         {
             id: 1,
             title: "Apex Predator: The Truth About Tyrannosaurus Rex",
-            image: "https://www.google.com/imgres?q=Apex%20Predator%3A%20The%20Truth%20About%20Tyrannosaurus%20Rex&imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fwg5APDpFjbdkYycmbhTibK-1200-80.jpg&imgrefurl=https%3A%2F%2Fwww.livescience.com%2Fanimals%2Fdinosaurs%2Fnewfound-t-rex-relative-was-an-even-bigger-apex-predator-remarkable-skull-discovery-suggests&docid=Mdz65mRwD9uhkM&tbnid=IkB_UR3nflI_pM&vet=12ahUKEwjKwOLhgY-YAxXKleEIHS_DPZcQnPAOegQINhAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjKwOLhgY-YAxXKleEIHS_DPZcQnPAOegQINhAA",
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybY0XIfrT_zIYb703zWBMy59-Nxfj2X6YwKjLvLcmYA&s=10",
             content: "The T-Rex remains the undisputed king of prehistoric lizards. With a bite force exceeding 12,800 pounds, it could crush thick bone effortlessly. Recent paleontology studies also suggest they had keen binocular vision.",
             comments: [
                 { author: "Dr. Grant", text: "Fascinating creature! The skull structure is pristine." }
