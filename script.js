@@ -13,7 +13,7 @@ if (blogContainer) {
         {
             id: 2,
             title: "Spinosaurus: The Giant River Hunter",
-            image: "images(1).jpg",
+            image: "images (1).jpg",
             content: "Longer and heavier than the T-Rex, the Spinosaurus possessed a massive sail and paddle-like tail, proving it spent most of its life hunting giant prehistoric fish in rivers.",
             comments: [
                 { author: "Sarah", text: "I love learning about semi-aquatic dinosaurs!" }
@@ -22,7 +22,7 @@ if (blogContainer) {
         {
             id: 3,
             title: "Triceratops: Armor of the Cretaceous",
-            image: "images(2).jpg",
+            image: "images (2).jpg",
             content: "With a skull taking up nearly a third of its entire body length and three defensive horns, the Triceratops stood its ground against the fiercest predators of its time.",
             comments: []
         }
